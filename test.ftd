@@ -1,0 +1,17 @@
+-- ftd.text: Hello world
+
+-- ftd.h2: Hi
+
+
+-- ftd.row:
+
+-- ftd.text: hi1
+
+-- ftd.text: hi2
+
+-- end: ftd.row
+
+
+;; A section doesn't have to have an end:
+;;  It can end when a new section starts
+;;  It can end when there's `end: `

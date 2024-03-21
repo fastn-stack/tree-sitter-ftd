@@ -1,0 +1,12 @@
+==============
+Variables
+==============
+
+-- ftd.text: Hello world
+
+---
+
+(document
+  (section
+    (name)
+    (caption)))
